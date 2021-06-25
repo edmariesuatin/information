@@ -1,0 +1,7 @@
+dbsqlite3
+dbsqlite3-journal
+geckodriver.log
+db.sqlite3
+geckodriver.log
+*.pyc
+*.pyc/*.cmake/*.DS_Store/.user
